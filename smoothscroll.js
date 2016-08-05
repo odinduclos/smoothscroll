@@ -1,6 +1,6 @@
 (function($)
 { 
-    $.fn.scrollSmooth = function(options) {
+    $.fn.smoothScroll = function(options) {
 
         var defauts = {
             temps: 2000,
