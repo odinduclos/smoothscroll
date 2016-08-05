@@ -1,12 +1,12 @@
 <h1>SmoothScroll</h1>
 <p>SmoothScroll is a jquery plugin adding a smooth scroll effect on mousewheel events.</p>
 <h2>Usage</h2>
-<p>
+<code>
    $(document).scrollSmooth({time:2000, speedStart:100, speedEnd:0});<br />
    // $(document).scrollSmooth({time:2000, speedStart:100});<br />
    // $(document).scrollSmooth({time:2000});<br />
    // $(document).scrollSmooth();
-</p>
+</code>
 <h3>Temps</h3>
 <p>Total time of animation.</p>
 <h3>speedStart</h3>
