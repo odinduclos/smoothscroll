@@ -4,7 +4,7 @@
 <code>
 $(document).scrollSmooth({time:2000, speedStart:100, speedEnd:0});
 </code>
-<h3>Temps</h3>
+<h3>Time</h3>
 <p>Total time of animation.</p>
 <h3>speedStart</h3>
 <p>Speed in the start of the animation in pixels/seconds.</p>
